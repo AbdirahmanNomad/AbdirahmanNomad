@@ -60,6 +60,14 @@ My work focuses on creating tools and platforms that make a meaningful impact, d
 
 ---
 
+## Random Facts
+
+* 600k+ YouTube subscribers (for fun)
+* Powered by Stockholm coffee culture
+* Building tools that solve real problems for diaspora communities
+
+---
+
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdirahmanNomad&color=blueviolet&style=flat-square)
