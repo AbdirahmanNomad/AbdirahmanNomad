@@ -54,7 +54,7 @@ I believe in the power of open source to create accessible solutions that benefi
 
 ## About
 
-**Abdirahman Ahmed (Maano)** — Originally from Somalia, now based in Sweden. I hold a degree in **Cybersecurity** and am fluent in **Somali, English, and Swedish**.
+**Abdirahman Ahmed (Maano)** — Originally from Somalia, now based in Sweden. I hold a degree in **Cybersecurity** and speak **Somali, English, and Swedish**.
 
 My work focuses on creating tools and platforms that make a meaningful impact, driven by a commitment to innovation and cultural preservation. I'm passionate about open source contributions, traveling, and supporting low-resource language development.
 
