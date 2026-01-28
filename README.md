@@ -40,7 +40,7 @@
 
 ## Connect
 
-[Portfolio](https://abdirahman.net) • [GitHub](https://github.com/AbdirahmanNomad) • [Twitter](https://twitter.com/abdirahmaanone) • [Email](mailto:hello@abdirahman.net) • [Facebook](https://facebook.com/abdirahmanone) • [Instagram](https://instagram.com/abdirahmanone)
+[Portfolio](https://abdirahman.net) • [GitHub](https://github.com/AbdirahmanNomad) • [Twitter](https://twitter.com/abdirahmaanone) • [Hugging Face](https://huggingface.co/abdirahmannomad) • [Email](mailto:hello@abdirahman.net) • [Facebook](https://facebook.com/abdirahmanone) • [Instagram](https://instagram.com/abdirahmanone)
 
 ---
 
