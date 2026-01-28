@@ -13,6 +13,7 @@
 ## Current Projects
 
 * 🌍 **AfSomali Foundation** - Nonprofit preserving Somali language, culture, and heritage through technology. Grammar checker, 70,000+ word dictionary, cultural archives, and educational resources for diaspora communities. [afsomali.org](https://afsomali.org)
+* 🌐 **WebClone** - Universal website cloner published on PyPI. Clone any website in seconds with `pip install webclone-cli`. Perfect for learning, prototyping, and building. [GitHub](https://github.com/AbdirahmanNomad/webclone) • [PyPI](https://pypi.org/project/webclone-cli/)
 * 💳 **IBAN & SWIFT Validator** - Professional validation API with 51,000+ banks across 204 countries. ISO 13616 compliant, bulk processing, fraud detection.
 * 🔒 **Warya Security Suite** - Comprehensive security testing framework with 77 tools (43 scanners + 30 utilities + 4 advanced modules). 120 scripts covering web apps, mobile apps, password security with AI integration.
 * 🧬 **DNA Analysis System** - Advanced DNA genomics platform with ML predictions. Analyzes 609,424+ genetic variants with disease risk scores and personalized health recommendations.
@@ -34,6 +35,7 @@
 * **AI & automation workflows** - Developing RAG stacks, embeddings, and agentic tools that solve real problems
 * **Fintech innovation** - Building validation APIs and payment systems that help businesses and immigrants
 * **Cultural preservation** - Writing books and building platforms to preserve Somali heritage for the next generation
+* **Open source tools** - Publishing Python packages on PyPI like WebClone (universal website cloner) that help developers worldwide
 * **Rapid prototyping** - Shipping production-ready APIs and tools that solve real-world problems
 
 ---
