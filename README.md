@@ -57,3 +57,11 @@ I believe in the power of open source to create accessible solutions that benefi
 **Abdirahman Ahmed (Maano)** — Originally from Somalia, now based in Sweden. I hold a degree in **Cybersecurity** and am fluent in **Somali, English, and Swedish**.
 
 My work focuses on creating tools and platforms that make a meaningful impact, driven by a commitment to innovation and cultural preservation. I'm passionate about open source contributions, traveling, and supporting low-resource language development.
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AbdirahmanNomad&color=blueviolet&style=flat-square)
+
+</div>
