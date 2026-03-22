@@ -15,7 +15,7 @@
 * 🌍 **AfSomali Foundation** - Nonprofit preserving Somali language, culture, and heritage through technology. Grammar checker, 70,000+ word dictionary, cultural archives, and educational resources for diaspora communities. [afsomali.org](https://afsomali.org)
 * 🌐 **WebClone** - Universal website cloner published on PyPI. Clone any website in seconds with `pip install webclone-cli`. Perfect for learning, prototyping, and building. [GitHub](https://github.com/AbdirahmanNomad/webclone) • [PyPI](https://pypi.org/project/webclone-cli/)
 * 💳 **IBAN & SWIFT Validator** - Professional validation API with 51,000+ banks across 204 countries. ISO 13616 compliant, bulk processing, fraud detection.
-* 🔒 **Warya Security Suite** - Comprehensive security testing framework with 77 tools (43 scanners + 30 utilities + 4 advanced modules). 120 scripts covering web apps, mobile apps, password security with AI integration.
+* 🔒 **Warya Security Suite** - Enterprise-grade security testing framework with 77 tools (43 scanners + 30 utilities + 4 advanced modules). 220 powerful scripts with custom algorithms for mobile and web security. AI-powered vulnerability detection and penetration testing.
 * 🧬 **DNA Analysis System** - Advanced DNA genomics platform with ML predictions. Analyzes 609,424+ genetic variants with disease risk scores and personalized health recommendations.
 * 📞 **Nordic Phone Number API** - Generate, validate, and enrich phone numbers for all 8 Nordic countries. 395+ cities covered via Google's libphonenumber.
 * 📧 **Email Validator API** - Professional validation with format, domain, MX records, disposable detection, risk scoring, and deliverability confidence.
