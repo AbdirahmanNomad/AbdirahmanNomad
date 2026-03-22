@@ -26,6 +26,7 @@
 * ✈️ **FlyMind** - AI-powered flight analytics platform. Real-time Google Flights scraping, price analytics, automation tools with n8n workflow integration.
 * 📚 **Somali Children's Books** - Books for diaspora to learn language and history. Published on Amazon with traditional stories, folklore, and educational content.
 * 🕰️ **WhatsReplay** - Rediscover history, one headline at a time. Interactive historical events viewer.
+* 📞 **Samtalsvän** - One-click video calls for elderly people. No apps, no login — just scan a QR code and talk instantly. Built with ❤️ for Sweden's seniors. [GitHub](https://github.com/AbdirahmanNomad/samtalsvan)
 
 ---
 
